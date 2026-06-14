@@ -99,12 +99,6 @@ class Sivasangari:
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
-[![Aadhavan College Website](https://github-readme-stats.vercel.app/api/pin/?username=SangariR-7&repo=Portfolio&theme=tokyonight&hide_border=true)](https://github.com/SangariR-7/Portfolio.git)
-
-</div>
-
 | Project | Description | Tech |
 |---|---|---|
 | 🏫 [Aadhavan College Website](https://aadhavancollege.ac.in/) | Official institutional website – maintained live | HTML, CSS, JS, WordPress |
